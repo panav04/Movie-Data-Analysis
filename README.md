@@ -1,23 +1,17 @@
-🎬 Movie Data Analysis
-📌 Overview
+Movie Data Analysis Project
+This project analyzes a dataset of movies using Python.
 
-Analyzed an IMDB movie dataset to extract insights on profitability, ROI, actors, directors, and genres to support data-driven movie production decisions.
-
-🎯 Key Tasks
-Identified highest profit movie
-Found language with highest average ROI
-Extracted unique genres
-Determined top producers by ROI
-Analyzed most frequent actor and their movies
-Studied director–actor preferences
-⚙️ Tech Stack
+Tasks Performed:
+Data cleaning and preprocessing
+Profit and ROI calculation
+Highest profit movie identified
+Language with highest ROI
+Genre analysis
+Producer and actor analysis
+Director-actor relationship study
+Tools Used:
 Python
 Pandas
-AST
-Collections
-🧹 Data Processing
-Removed duplicates & missing values
-Converted budget & revenue to numeric
-Created:
-Profit = Revenue - Budget
-ROI = Profit / Budget
+VS Code
+Conclusion:
+This project provides insights into movie profitability, genres, and key contributors in the film industry.
